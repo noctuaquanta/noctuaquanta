@@ -1,4 +1,4 @@
-## Hi there, I'm Noctua 👋🦇
+## Hi there, I'm Noctua 👋🦉
 
 # 💫 About Me:
 I am an undergraduate student majoring in **Physics**, with a strong focus on **particle astrophysics** and **cosmology**. My research interests revolve around understanding how the most fundamental particles shape our comprehension of the universe's largest structures.
