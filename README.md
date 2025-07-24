@@ -1,11 +1,11 @@
 ## Hi there, I'm Noctua 👋🦉
 
 # 💫 About Me:
-I am an undergraduate student majoring in **Physics**, with a strong focus on **particle astrophysics** and **cosmology**. My research interests revolve around understanding how the most fundamental particles shape our comprehension of the universe's largest structures.
+I'm an undergraduate student majoring in **Physics**, with a particular focus on **particle astrophysics** and **cosmology**. I'm fascinated by the connection between the smallest constituents of matter and the largest structures in the universe.
 
-In addition to my scientific pursuits, I am deeply intrigued by the **philosophy of science**, particularly the conceptual foundations of **quantum theory** and the intricate issues surrounding **time** and **causality**.
+Alongside my work in physics, I also study **philosophy**, especially within the **analytic tradition**. I'm most drawn to **metaphysics**, **epistemology**, and the **history of modern philosophy**, with a special interest in **post-Kantian thought**.
 
-I am eager to collaborate with anyone interested in **computational physics**, **astrophysics projects**, or **data analysis**! 🌌
+I'm always interested in collaborating on **computational physics**, **astrophysics**, or **data analysis** projects. If you're exploring similar ideas, feel free to reach out! 🌌
 
 ## 📚 Currently Learning
 - **Languages**: Japanese 🇯🇵 & French 🇫🇷  
