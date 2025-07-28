@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm an undergraduate student majoring in **Physics**, with a particular focus on **particle astrophysics** and **cosmology**. I'm fascinated by the connection between the smallest constituents of matter and the largest structures in the universe.
 
-Alongside my work in **physics**, I also study **philosophy**, especially within the **analytic tradition**. I'm most drawn to **metaphysics**, **epistemology**, and the **history of modern philosophy**, with a particular interest in both the **Early Modern period** and **post-Kantian thought**.
+Alongside my work in **physics**, I study **philosophy**, with a focus on the **analytic tradition** and the **history of modern philosophy**. I am especially interested in **German Idealism** and **post-Kantian thought**, including figures such as **Kant**, **Hegel**, and **Schelling**. I am also drawn to topics in the **philosophy of mind** and **phenomenology**.
 
 I'm always interested in collaborating on **computational physics**, **astrophysics**, or **data analysis** projects. If you're exploring similar ideas, feel free to reach out! 🌌
 
