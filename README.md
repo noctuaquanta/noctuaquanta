@@ -1,9 +1,11 @@
 ## Hi there, I'm Noctua 👋🦉
 
 # 💫 About Me:
-I'm an undergraduate student majoring in **Physics**, with a particular focus on **particle astrophysics** and **cosmology**. I'm fascinated by the connection between the smallest constituents of matter and the largest structures in the universe.
+I'm an undergraduate student majoring in **Physics**, with a particular focus on *particle astrophysics* and *cosmology*. I'm fascinated by the connection between the smallest constituents of matter and the largest structures in the universe.
 
-Alongside my work in **physics**, I study **philosophy**, with a focus on the **analytic tradition** and the **history of modern philosophy**. I am especially interested in **German Idealism** and **post-Kantian thought**, including figures such as **Kant**, **Hegel**, and **Schelling**. I am also drawn to topics in the **philosophy of mind** and **phenomenology**.
+Alongside my work in *physics*, I maintain a strong personal interest in *philosophy*, especially within the *analytic tradition* and the *history of modern philosophy*. I’m particularly interested in the intersections of *philosophy of mind*, *language*, *epistemology*, *phenomenology*, and *cognitive science*. 
+
+I’m drawn to *German Idealism* and *post-Kantian* thinkers like *Kant*, *Hegel*, and *Schelling*, focusing on themes such as normativity, self-consciousness, freedom, and reason.
 
 I'm always interested in collaborating on **computational physics**, **astrophysics**, or **data analysis** projects. If you're exploring similar ideas, feel free to reach out! 🌌
 
